@@ -7,4 +7,5 @@
 2º Large Class:
   Observei que havia uma classe chamada Sistema, com muitos métodos provenientes de muitas classes diferentes chamadas, MenuLogin, MenuLoja, MenuPrincipal, MenuProduto e MenuCarrinho. Então, decidi dividir o conteúdo dessa classe em outras classes, cada um correspondente ao seu Menu, classes essas chamadas SistemaMenuLogin, SistemaMenuLoja, SistemaMenuPrincipal, SistemaMenuProduto e SistemaMenuCarrinho.
   
-3º:
+3º Switch Statements:
+  
